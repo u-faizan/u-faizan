@@ -97,6 +97,7 @@
 - 📈 Downloadable JSON insights and optimization recommendations
 
 [![GitHub](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u-faizan/NextGen-Resume-Analyzer)
+[![Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://nextgen-resume-analyzer.streamlit.app/)
 
 #### 💬 DataChat Pro - AI SQL Assistant
 ![LLM](https://img.shields.io/badge/LLM-Integration-green?style=flat-square)
