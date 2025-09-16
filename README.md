@@ -110,7 +110,8 @@
 - ⚡ Real-time analytics and query optimization
 - 🔄 Seamless database interactions through conversational AI
 
-[![GitHub](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u-faizan/DataChat-Pro—AI-SQL-Assistant)
+[![GitHub](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u-faizan/DataChat-Pro---AI-SQL-Assistant)
+[![Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://sql-data-chat-pro.streamlit.app/)
 
 
 
