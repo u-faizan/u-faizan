@@ -24,9 +24,7 @@
   <a href="https://github.com/u-faizan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="tel:+923027240568">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+
 </p>
 
 ---
@@ -113,29 +111,7 @@
 
 [![GitHub](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u-faizan/DataChat-Pro—AI-SQL-Assistant)
 
-#### 🏠 House Price Prediction
-![ML](https://img.shields.io/badge/Machine_Learning-blue?style=flat-square)
-![Regression](https://img.shields.io/badge/Regression-green?style=flat-square)
 
-- 📈 Advanced regression models with scikit-learn
-- 🔧 Feature engineering and model optimization
-- 🎯 Real estate price prediction with high accuracy
-
-#### 🖼️ CIFAR-10 Image Classification
-![CNN](https://img.shields.io/badge/CNN-red?style=flat-square)
-![Computer_Vision](https://img.shields.io/badge/Computer_Vision-purple?style=flat-square)
-
-- 🎯 High-accuracy image classification using CNN architecture
-- 🔄 Data augmentation techniques with TensorFlow/Keras
-- 📊 Advanced model evaluation and optimization
-
-#### ✏️ MNIST Handwritten Digit Recognition
-![Deep_Learning](https://img.shields.io/badge/Deep_Learning-orange?style=flat-square)
-![CNN](https://img.shields.io/badge/CNN-red?style=flat-square)
-
-- 🔢 CNN-based handwritten digit recognition
-- 🎯 High classification accuracy on MNIST dataset
-- 🧠 Advanced neural network architecture implementation
 
 ---
 
