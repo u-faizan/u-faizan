@@ -166,26 +166,21 @@ CNNs, RNNs & TensorFlow Optimization
 
 ### 🎯 Current Focus
 
-```python
-class UmarFaizan:
-    def __init__(self):
-        self.current_focus = [
-            "🤖 Advanced Generative AI Applications",
-            "🔗 Agentic AI with LangChain & LangGraph", 
-            "🧠 Large Language Model Fine-tuning",
-            "📊 RAG Systems & Vector Databases",
-            "🎯 AI-Powered Business Solutions"
-        ]
-        self.learning = [
-            "MLOps & Model Deployment",
-            "Multi-Agent AI Systems", 
-            "Advanced Prompt Engineering",
-            "Computer Vision Transformers"
-        ]
-    
-    def current_goal(self):
-        return "Securing AI/ML internship to bridge theory with practical AI engineering experience"
-```
+**🔥 What I'm Working On:**
+- 🤖 Advanced Generative AI Applications
+- 🔗 Agentic AI with LangChain & LangGraph
+- 🧠 Large Language Model Fine-tuning
+- 📊 RAG Systems & Vector Databases
+- 🎯 AI-Powered Business Solutions
+
+**📚 Currently Learning:**
+- MLOps & Model Deployment
+- Multi-Agent AI Systems
+- Advanced Prompt Engineering
+- Computer Vision Transformers
+
+**🚀 Current Goal:**
+Securing AI/ML internship to bridge theory with practical AI engineering experience
 
 ---
 
