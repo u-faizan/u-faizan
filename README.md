@@ -194,16 +194,3 @@ Securing AI/ML internship to bridge theory with practical AI engineering experie
 - 🎯 Believe in the power of AI to solve real-world problems
 - 🤝 Open to collaboration on innovative AI projects
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
-</p>
-
-<h3 align="center">💫 "Building the future, one algorithm at a time" 💫</h3>
-
----
-
-<p align="center">
-  <sub>⭐ Don't forget to star repositories you find interesting! ⭐</sub>
-</p>
