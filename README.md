@@ -90,15 +90,17 @@ I specialize in Generative AI, LangChain-based agentic workflows, and RAG system
 - Optimized low-latency STT → LLM → TTS pipeline with prompt engineering for contextual content
 - Developed modular Python backend with multilingual support and avatar-based UI
 
-### 🎯 NextGen Resume Analyzer
-*AI-Powered ATS Analysis | DeepSeek, Streamlit, SQLite*
+[![View Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/r-zeeshan/echoverse-v2)
+[![Video Demo](https://img.shields.io/badge/Video_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ZHEUGOI-M4I&feature=youtu.be)
 
-- Advanced ATS-compliant resume evaluation system with comprehensive AI analysis
-- Full-stack solution with PDF processing and downloadable JSON insights
-- Provides optimization recommendations for job seekers
+### 🔍 Spam Detection MLOps Pipeline
+*MLOps | Python, DVC, AWS S3, MLflow*
 
-[![View Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u-faizan/NextGen-Resume-Analyzer)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://nextgen-resume-analyzer.streamlit.app/)
+- End-to-end MLOps pipeline for NLP-based spam detection with experiment tracking
+- Implemented DVC for data versioning and pipeline orchestration with AWS S3 remote storage
+- Achieved high accuracy using TF-IDF vectorization and Random Forest classifier
+
+[![View Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u-faizan/spam-detection-mlops-pipeline)
 
 ### 💬 DataChat Pro — AI SQL Assistant
 *NLP to SQL | LangChain, LLMs, Streamlit*
@@ -110,12 +112,15 @@ I specialize in Generative AI, LangChain-based agentic workflows, and RAG system
 [![View Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u-faizan/DataChat-Pro---AI-SQL-Assistant)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://sql-data-chat-pro.streamlit.app/)
 
-### 🔍 Spam Detection MLOps Pipeline
-*MLOps | Python, DVC, AWS S3, MLflow*
+### 🎯 NextGen Resume Analyzer
+*AI-Powered ATS Analysis | DeepSeek, Streamlit, SQLite*
 
-- End-to-end MLOps pipeline for NLP-based spam detection with experiment tracking
-- Implemented DVC for data versioning and pipeline orchestration with AWS S3 remote storage
-- Achieved high accuracy using TF-IDF vectorization and Random Forest classifier
+- Advanced ATS-compliant resume evaluation system with comprehensive AI analysis
+- Full-stack solution with PDF processing and downloadable JSON insights
+- Provides optimization recommendations for job seekers
+
+[![View Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u-faizan/NextGen-Resume-Analyzer)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://nextgen-resume-analyzer.streamlit.app/)
 
 ---
 
