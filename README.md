@@ -2,9 +2,9 @@
 
 # Hi, I'm Umar Faizan 👋
 
-### AI/ML Engineer | Deep Learning | GenAI & LLMs
+### AI Developer & Voice AI Engineer | LLM Agents & LangChain | MLOps
 
-*Building intelligent systems with cutting-edge AI technologies*
+*Building production-ready Voice AI, LLM agent workflows, and automated MLOps pipelines*
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/u-faizan)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mianumarzareen@gmail.com)
@@ -16,108 +16,103 @@
 
 ## 🎯 About Me
 
-Entry-level AI/ML Engineer with hands-on experience in building end-to-end ML pipelines, deploying AI applications, and implementing MLOps workflows. Currently in my final year of BSAI at NUML with a strong foundation in Machine Learning, Deep Learning, NLP, and LLMs.
+BSAI Graduate (**CGPA 3.61/4.00**) from NUML Islamabad and **AI Developer Intern at Poshnee Tech**. Specializing in real-time **Voice AI systems (Twilio Voice API, Whisper ASR)**, **Autonomous LLM Agents (LangChain / LangGraph)**, and **Production MLOps pipelines (Docker, AWS, CI/CD)**. 
 
-I specialize in Generative AI, LangChain-based agentic workflows, and RAG systems, with proven ability to deliver production-ready AI solutions. Passionate about turning complex AI research into practical applications that solve real-world problems.
+Recently secured 🥉 **3rd Place at the Algoryc OpenHome AI Hackathon** by building *Panic Emergency Protocol*, an open-source Voice AI smart home emergency responder using the Twilio Voice API. Passionate about engineering end-to-end Python & FastAPI backends that bridge AI models into scalable applications.
 
-**Core Areas:**
-- 🤖 Generative AI & LLM Applications
-- 🔗 Agentic AI with LangChain & LangGraph
-- 🧠 Deep Learning (CNNs, RNNs, Transformers)
-- 🔧 MLOps & Model Deployment
-- 📊 NLP & Text Analytics
-- 🎯 RAG Systems & Vector Databases
+**Core Technical Focus:**
+- 🎙️ **Voice AI & Telephony**: Twilio Voice API, Whisper ASR, Real-time WebSockets, STT/TTS Pipelines
+- 🔗 **LLM Agents & RAG**: LangChain, LangGraph, RAG (ChromaDB), OpenAI, Groq, DeepSeek APIs
+- ⚙️ **MLOps & Infrastructure**: Docker, AWS (S3, ECR, EC2), GitHub Actions CI/CD, DVC, MLflow
+- 🐍 **Full-Stack Integration**: Python, FastAPI, RESTful APIs, WebSockets, Streamlit, HTML5/CSS3/JS
+
+---
+
+## 💼 Experience & Leadership
+
+**AI Developer Intern** | Poshnee Tech | *Apr 2026 – Present*
+- Engineering custom LLM Assistants, AI customer training platforms with configurable personas, and FastAPI REST backends in Agile production teams.
+
+**Data Science Intern** | 10Pearls Pakistan *(Remote)* | *Dec 2025 – Feb 2026*
+- Developed real-time Air Quality Index (AQI) forecasting ML system (**82% accuracy**) using environmental telemetry streams.
+- Built automated daily model retraining pipelines with GitHub Actions, Docker containers, and MongoDB Atlas, reducing deployment cycles by **70%**.
+
+**Section Leader (Teaching Assistant)** | Stanford University (Code in Place) *(Remote)* | *Apr 2026 – Jun 2026*
+- Mentored international students in Python coding syntax, runtime debugging, and systematic problem solving in weekly interactive labs.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Machine Learning & AI**
-
+**Languages & Backend**
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,js,html,css" />
 </p>
 
-**GenAI & LLM Tools**
-
+**AI, Machine Learning & LLMs**
 <p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  &nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" width="48" height="48"/>
   &nbsp;&nbsp;
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="48" height="48"/>
   &nbsp;&nbsp;
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="48" height="48"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Gemini" width="48" height="48"/>
 </p>
 
-**MLOps & Development**
-
+**MLOps, Cloud & Databases**
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,aws" />
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,mongodb,sqlite" />
 </p>
 
-**Frameworks & Tools**
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb,sqlite" />
-</p>
-
-**Additional Technologies**
-- Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
-- MLflow, DVC, GitHub Actions, CI/CD
-- ChromaDB, Vector Databases
-- Streamlit, Pydantic, RESTful APIs
-- Coqui TTS, Speech Recognition (STT/TTS)
-
----
-
-## 💼 Experience
-
-**Data Science Intern** | 10Pearls Pakistan | *Dec 2025 – Feb 2026*
-
-- Developed Air Quality Index (AQI) prediction system achieving **82% accuracy** using real-time API data
-- Implemented CI/CD pipelines with GitHub Actions, reducing deployment time by **70%**
-- Automated weekly model retraining with MongoDB integration for data storage and retrieval
+**Specialized Tools & Libraries**
+- **Voice AI & Speech**: Twilio Voice API, Whisper ASR, WebSockets, ElevenLabs / Coqui TTS
+- **LLM & Agent Frameworks**: LangChain, LangGraph, RAG, ChromaDB Vector Store, Prompt Engineering
+- **MLOps**: DVC, MLflow, GitHub Actions CI/CD, MongoDB Atlas
+- **Data & Interfaces**: Scikit-Learn, Pandas, NumPy, Streamlit, Pydantic, REST APIs
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 EchoVerse — AI Language Learning Platform
-*Final Year Project | Python, LLMs, LangChain, ASR, TTS*
+### 🚨 Panic Emergency Protocol — OpenHome Voice AI Ability
+*🥉 3rd Place Winner @ Algoryc OpenHome AI Hackathon | Python, Twilio Voice API, OpenHome SDK, LLMs*
 
-- Built AI-powered language learning app with real-time speech recognition and text-to-speech integration
-- Optimized low-latency STT → LLM → TTS pipeline with prompt engineering for contextual content
-- Developed modular Python backend with multilingual support and avatar-based UI
+- Built open-source Voice AI smart home safety Ability integrating **Twilio Voice API** with OpenHome ecosystem.
+- Implemented covert silent alarms for security threats (distress call dispatched via normal home phrases) and interactive LLM emergency guidance loops for fire/medical crises.
+
+[![OpenHome Platform](https://img.shields.io/badge/OpenHome_Platform-000?style=for-the-badge&logo=github&logoColor=white)](https://openhome.com/)
+
+### 🎙️ EchoVerse — AI Voice & Language Learning Platform
+*Final Year Project | Python, Whisper ASR, LLMs, LangChain, TTS, FastAPI*
+
+- Full-stack AI-powered language learning app combining interactive lessons with real-time conversational AI features.
+- Integrates GPU-accelerated Whisper speech recognition (ASR), LLM dialogue generation, and TTS playback for real-time structural pronunciation grading.
 
 [![View Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/r-zeeshan/echoverse-v2)
-[![Video Demo](https://img.shields.io/badge/Video_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ZHEUGOI-M4I&feature=youtu.be)
+[![Video Demo](https://img.shields.io/badge/Video_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ZHEUGOI-M4I)
 
-### 🔍 Spam Detection MLOps Pipeline
-*MLOps | Python, DVC, AWS S3, MLflow*
+### 🚗 Vehicle Insurance Cross-Sell — MLOps Pipeline
+*MLOps & Cloud DevOps | Python, FastAPI, MongoDB Atlas, Docker, AWS, GitHub Actions*
 
-- End-to-end MLOps pipeline for NLP-based spam detection with experiment tracking
-- Implemented DVC for data versioning and pipeline orchestration with AWS S3 remote storage
-- Achieved high accuracy using TF-IDF vectorization and Random Forest classifier
+- Production 6-stage ML pipeline predicting customer cross-sell interest on 380K+ records.
+- Implemented automated CI/CD using GitHub Actions, AWS ECR container registry, S3 model versioning, and EC2 deployment.
 
-[![View Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u-faizan/spam-detection-mlops-pipeline)
+[![View Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u-faizan/vehicle-insurance-mlops-pipeline)
 
-### 💬 DataChat Pro — AI SQL Assistant
-*NLP to SQL | LangChain, LLMs, Streamlit*
+### 📊 DataChat Pro — AI SQL Assistant
+*NLP to SQL | Python, LangChain, ChromaDB RAG, Streamlit*
 
-- Natural language to SQL conversion system using LangChain for accurate database querying
-- Interactive chat interface with automated visualizations and real-time analytics
-- Seamless database interactions through conversational AI
+- Natural language to SQL database querying system powered by LangChain and OpenAI.
+- Interactive chat interface with automated Streamlit analytics chart visualizations.
 
 [![View Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u-faizan/DataChat-Pro---AI-SQL-Assistant)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://sql-data-chat-pro.streamlit.app/)
 
-### 🎯 NextGen Resume Analyzer
-*AI-Powered ATS Analysis | DeepSeek, Streamlit, SQLite*
+### 📑 NextGen Resume ATS Analyzer
+*AI ATS Parser | DeepSeek, Streamlit, PDF Plumber*
 
-- Advanced ATS-compliant resume evaluation system with comprehensive AI analysis
-- Full-stack solution with PDF processing and downloadable JSON insights
-- Provides optimization recommendations for job seekers
+- ATS-compliant CV evaluation system calculating match scores against job descriptions using DeepSeek LLM.
 
 [![View Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u-faizan/NextGen-Resume-Analyzer)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://nextgen-resume-analyzer.streamlit.app/)
@@ -126,8 +121,12 @@ I specialize in Generative AI, LangChain-based agentic workflows, and RAG system
 
 ## 🎓 Education
 
-**Bachelor of Science in Artificial Intelligence** | *2022 - Jan 2026*  
-National University of Modern Languages (NUML), Islamabad | **CGPA: 3.6/4.0**
+- **Bachelor of Science in Artificial Intelligence (BSAI)** *(2022 – Jan 2026)*  
+  National University of Modern Languages (NUML), Islamabad | **CGPA: 3.61/4.00**
+- **Intermediate (Pre-Medical)** *(2018 – 2021)*  
+  Punjab College, Mailsi | **96%**
+- **Matriculation** *(2016 – 2018)*  
+  Government High School, Mailsi | **92%**
 
 ---
 
@@ -135,21 +134,9 @@ National University of Modern Languages (NUML), Islamabad | **CGPA: 3.6/4.0**
 
 - **Machine Learning Specialization** — Stanford University (Andrew Ng)
 - **Deep Learning Specialization** — DeepLearning.AI (Andrew Ng)
-- **Complete Generative AI Course** — LangChain and HuggingFace (Krish Naik, Udemy)
 - **Oracle Cloud Infrastructure 2025 AI Foundations Associate** — Oracle University
-- **IBM AI Developer Professional Certificate** — IBM
+- **Generative AI Course with LangChain & HuggingFace** — Krish Naik (Udemy)
 - **Google Soft Skills Program** — Google Career Certificates
-
----
-
-## 📈 Current Focus
-
-- Building end-to-end ML/AI pipelines and deployment strategies
-- Advanced LangChain & LangGraph agentic workflows
-- RAG applications with vector databases
-- MLOps best practices and automation
-- Fine-tuning LLMs for domain-specific tasks
-- Production-ready AI system architecture
 
 ---
 
@@ -169,8 +156,10 @@ National University of Modern Languages (NUML), Islamabad | **CGPA: 3.6/4.0**
 
 <div align="center">
 
-**Let's build intelligent AI solutions together!**
+**Let's build intelligent AI & Voice solutions together!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=u-faizan&style=flat-square&color=blue)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white)](https://umarfaizan.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/u-faizan)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mianumarzareen@gmail.com)
 
 </div>
