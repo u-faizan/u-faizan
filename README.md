@@ -2,9 +2,9 @@
 
 # Hi, I'm Umar Faizan 👋
 
-### AI Developer & Voice AI Engineer | LLM Agents & LangChain | MLOps
+### Management Trainee Officer (MTO) at Algoryc (OpenHome Team) | Voice AI & LLM Systems Engineer | Backend AI Developer
 
-*Building production-ready Voice AI, LLM agent workflows, and automated MLOps pipelines*
+*Building real-time Voice AI architecture, LLM agent workflows, Django REST Framework backends, and automated MLOps pipelines*
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/u-faizan)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mianumarzareen@gmail.com)
@@ -16,22 +16,27 @@
 
 ## 🎯 About Me
 
-BSAI Graduate (**CGPA 3.61/4.00**) from NUML Islamabad and **AI Developer Intern at Poshnee Tech**. Specializing in real-time **Voice AI systems (Twilio Voice API, Whisper ASR)**, **Autonomous LLM Agents (LangChain / LangGraph)**, and **Production MLOps pipelines (Docker, AWS, CI/CD)**. 
+BSAI Graduate (**CGPA 3.61/4.00**) from NUML Islamabad and **Management Trainee Officer (MTO) at Algoryc (OpenHome Team)**. Specializing in real-time **Voice AI systems (FastAPI, WebSockets, Twilio Voice API, Whisper ASR)**, **Autonomous LLM Agents (LangChain / LangGraph)**, **Django REST Framework (DRF)** backends, and **Production MLOps pipelines (Docker, AWS, CI/CD)**. 
 
-Recently secured 🥉 **3rd Place at the Algoryc OpenHome AI Hackathon** by building *Panic Emergency Protocol*, an open-source Voice AI smart home emergency responder using the Twilio Voice API. Passionate about engineering end-to-end Python & FastAPI backends that bridge AI models into scalable applications.
+Recently secured 🥉 **3rd Place at the Algoryc OpenHome AI Hackathon** by building *Panic Emergency Protocol*, an open-source Voice AI smart home emergency responder using the Twilio Voice API. Passionate about engineering high-throughput Python backends, RESTful microservices, and Voice AI pipelines for real-world applications.
 
 **Core Technical Focus:**
-- 🎙️ **Voice AI & Telephony**: Twilio Voice API, Whisper ASR, Real-time WebSockets, STT/TTS Pipelines
-- 🔗 **LLM Agents & RAG**: LangChain, LangGraph, RAG (ChromaDB), OpenAI, Groq, DeepSeek APIs
+- 🎙️ **Voice AI & Telephony**: Twilio Voice API, Real-time WebSockets, Speech Interruption Handling, Whisper ASR, STT/TTS Pipelines
+- 🔗 **LLM Agents & RAG**: LangChain, LangGraph, RAG (ChromaDB), OpenAI, Groq, DeepSeek APIs, Prompt Engineering
 - ⚙️ **MLOps & Infrastructure**: Docker, AWS (S3, ECR, EC2), GitHub Actions CI/CD, DVC, MLflow
-- 🐍 **Full-Stack Integration**: Python, FastAPI, RESTful APIs, WebSockets, Streamlit, HTML5/CSS3/JS
+- 🐍 **Backend AI & Microservices**: Python, FastAPI, Django REST Framework (DRF), WebSockets, RESTful APIs, Session/Connection Management, Streamlit, Git & GitHub
 
 ---
 
 ## 💼 Experience & Leadership
 
-**AI Developer Intern** | Poshnee Tech | *Apr 2026 – Present*
-- Engineering custom LLM Assistants, AI customer training platforms with configurable personas, and FastAPI REST backends in Agile production teams.
+**Management Trainee Officer (MTO) — OpenHome Team** | Algoryc | *Aug 2026 – Present*
+- Contributing to real-time Voice AI architecture powered by **FastAPI**, **WebSockets**, and **asyncio** for live speech interruption handling.
+- Optimizing connection and session managers using multi-threading to ensure smooth, low-latency audio stream processing.
+- Extending backend services and REST APIs using **Django REST Framework (DRF)** for the **OpenHome Dashboard**.
+
+**AI Developer Intern** | Poshnee Tech | *Apr 2026 – Aug 2026*
+- Engineered custom LLM Assistants, AI customer training platforms with configurable personas, and FastAPI REST backends in Agile production teams.
 
 **Data Science Intern** | 10Pearls Pakistan *(Remote)* | *Dec 2025 – Feb 2026*
 - Developed real-time Air Quality Index (AQI) forecasting ML system (**82% accuracy**) using environmental telemetry streams.
@@ -44,9 +49,9 @@ Recently secured 🥉 **3rd Place at the Algoryc OpenHome AI Hackathon** by buil
 
 ## 🛠️ Tech Stack
 
-**Languages & Backend**
+**Languages & Backend Architecture**
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mongodb,sqlite" />
 </p>
 
 **AI, Machine Learning & LLMs**
@@ -60,28 +65,20 @@ Recently secured 🥉 **3rd Place at the Algoryc OpenHome AI Hackathon** by buil
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="48" height="48"/>
 </p>
 
-**MLOps, Cloud & Databases**
+**MLOps, Cloud & Version Control**
 <p>
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github,mongodb,sqlite" />
 </p>
 
 **Specialized Tools & Libraries**
-- **Voice AI & Speech**: Twilio Voice API, Whisper ASR, WebSockets, ElevenLabs / Coqui TTS
+- **Voice AI & Telephony**: FastAPI WebSockets, Interruption Handling, Twilio Voice API, Whisper ASR, ElevenLabs / Coqui TTS
+- **Backend & REST Frameworks**: Django REST Framework (DRF), FastAPI, Pydantic, Session & Connection Managers
 - **LLM & Agent Frameworks**: LangChain, LangGraph, RAG, ChromaDB Vector Store, Prompt Engineering
-- **MLOps**: DVC, MLflow, GitHub Actions CI/CD, MongoDB Atlas
-- **Data & Interfaces**: Scikit-Learn, Pandas, NumPy, Streamlit, Pydantic, REST APIs
+- **MLOps & DevOps**: DVC, MLflow, GitHub Actions CI/CD, Docker, AWS (S3, ECR, EC2)
 
 ---
 
 ## 🚀 Featured Projects
-
-### 🚨 Panic Emergency Protocol — OpenHome Voice AI Ability
-*🥉 3rd Place Winner @ Algoryc OpenHome AI Hackathon | Python, Twilio Voice API, OpenHome SDK, LLMs*
-
-- Built open-source Voice AI smart home safety Ability integrating **Twilio Voice API** with OpenHome ecosystem.
-- Implemented covert silent alarms for security threats (distress call dispatched via normal home phrases) and interactive LLM emergency guidance loops for fire/medical crises.
-
-[![OpenHome Platform](https://img.shields.io/badge/OpenHome_Platform-000?style=for-the-badge&logo=github&logoColor=white)](https://openhome.com/)
 
 ### 🎙️ EchoVerse — AI Voice & Language Learning Platform
 *Final Year Project | Python, Whisper ASR, LLMs, LangChain, TTS, FastAPI*
@@ -108,6 +105,14 @@ Recently secured 🥉 **3rd Place at the Algoryc OpenHome AI Hackathon** by buil
 
 [![View Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u-faizan/DataChat-Pro---AI-SQL-Assistant)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://sql-data-chat-pro.streamlit.app/)
+
+### 🚨 Panic Emergency Protocol — OpenHome Voice AI Ability
+*🥉 3rd Place Winner @ Algoryc OpenHome AI Hackathon | Python, Twilio Voice API, OpenHome SDK, LLMs*
+
+- Built open-source Voice AI smart home safety Ability integrating **Twilio Voice API** with OpenHome ecosystem.
+- Implemented covert silent alarms for security threats (distress call dispatched via normal home phrases) and interactive LLM emergency guidance loops for fire/medical crises.
+
+[![OpenHome Platform](https://img.shields.io/badge/OpenHome_Platform-000?style=for-the-badge&logo=github&logoColor=white)](https://openhome.com/)
 
 ### 📑 NextGen Resume ATS Analyzer
 *AI ATS Parser | DeepSeek, Streamlit, PDF Plumber*
@@ -158,7 +163,7 @@ Recently secured 🥉 **3rd Place at the Algoryc OpenHome AI Hackathon** by buil
 
 **Let's build intelligent AI & Voice solutions together!**
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white)](https://umarfaizan.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000?style=for-the-badge&logo=cloudflare&logoColor=white)](https://u-faizan.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/u-faizan)
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mianumarzareen@gmail.com)
 
